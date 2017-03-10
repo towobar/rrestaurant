@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Responsive Restaurant
+                    Responsive Restaurant !!
                 </div>
 
                 <div class="links">
